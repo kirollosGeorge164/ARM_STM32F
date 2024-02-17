@@ -23,6 +23,9 @@
 #define GPIOF_Base 0x40011C00
 #define GPIOG_Base 0x40012000
 
+#define Pin_Lock 1
+#define Pin_unLock 0
+
 /// @struct
 /// @brief
 /// Contains the control and status registers of the GPIO peripheral
